@@ -27,6 +27,5 @@ plot3 <- function() {
         dev.off()
         cat("plot3.png savec :", getwd())
 }
-## print plot 
 
 plot3()

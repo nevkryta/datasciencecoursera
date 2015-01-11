@@ -40,6 +40,6 @@ plot4 <- function() {
         dev.off()
         cat("plot4.png saved: ", getwd())
 }
- ## print plot
+
 
 plot4()
