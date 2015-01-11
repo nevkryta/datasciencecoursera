@@ -25,4 +25,7 @@ plot1 <- function() {
         dev.off()
         cat("Plot1.png saved : ", getwd())
 }
+
+## print plot
+
 plot1()
